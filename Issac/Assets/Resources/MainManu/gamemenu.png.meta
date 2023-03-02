@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: d780bd3e910ad16478ef42005cea293d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamemenu_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 480
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2dccb36810d1341931c3259e2159d2
+      internalID: -1536935782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamemenu_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 334
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b391d948cfde44a72cb0bbcd2fa6f
+      internalID: 51478060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamemenu_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 212
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15687d4c503324744bcafa2b1e1a80dd
+      internalID: -1743072131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamemenu_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 211
+        width: 105
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43019123d539d434b913b1adedcc8cff
+      internalID: -1323769224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamemenu_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19275a4e48c67d247bcf5903d3480527
+      internalID: 1578740791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamemenu_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 19
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810d1a415d84d140bab982bf61330c3
+      internalID: 712130959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aaad37a3294a49b43bba487b578763ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gamemenu_20: 978321790
+      gamemenu_31: 1390088138
+      gamemenu_61: -159227479
+      gamemenu_8: -884217402
+      gamemenu_56: 1506759277
+      gamemenu_64: -399923465
+      gamemenu_3: 597695979
+      gamemenu_53: 1578740791
+      gamemenu_62: -1372213155
+      gamemenu_16: -994256631
+      gamemenu_26: -650032343
+      gamemenu_55: -994680931
+      gamemenu_60: 129573651
+      gamemenu_48: -2106258890
+      gamemenu_6: 1307948922
+      gamemenu_54: 476684774
+      gamemenu_30: 2100788198
+      gamemenu_15: -1425106940
+      gamemenu_2: -1536935782
+      gamemenu_4: -697050008
+      gamemenu_10: -1970083585
+      gamemenu_40: -1672851355
+      gamemenu_13: 56572294
+      gamemenu_43: -740485072
+      gamemenu_58: 597492470
+      gamemenu_33: 1707912476
+      gamemenu_45: -1505401428
+      gamemenu_52: -2097489132
+      gamemenu_11: -1275971693
+      gamemenu_28: -1743072131
+      gamemenu_18: -1435351498
+      gamemenu_65: 2143534602
+      gamemenu_44: 825380991
+      gamemenu_47: 690796349
+      gamemenu_7: -1719228846
+      gamemenu_42: 267502683
+      gamemenu_14: -382483864
+      gamemenu_19: 51478060
+      gamemenu_27: 1012270871
+      gamemenu_50: -504947943
+      gamemenu_38: -1484890324
+      gamemenu_49: 461607569
+      gamemenu_36: 1914432683
+      gamemenu_37: 265691244
+      gamemenu_12: 1278491263
+      gamemenu_21: -1076651049
+      gamemenu_24: -1750187228
+      gamemenu_25: 1375059983
+      gamemenu_35: -1201488131
+      gamemenu_39: 621063168
+      gamemenu_34: 480036571
+      gamemenu_41: -1280720066
+      gamemenu_23: 1654163877
+      gamemenu_63: -2106453803
+      gamemenu_46: 332242421
+      gamemenu_67: 712130959
+      gamemenu_17: -825107077
+      gamemenu_9: -692021089
+      gamemenu_0: 2119239371
+      gamemenu_5: -964115297
+      gamemenu_51: -192566496
+      gamemenu_29: -1323769224
+      gamemenu_59: -1424644531
+      gamemenu_66: -1341581501
+      gamemenu_1: 1865833264
+      gamemenu_57: 1437570840
+      gamemenu_32: 1828135261
+      gamemenu_22: 54357570
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

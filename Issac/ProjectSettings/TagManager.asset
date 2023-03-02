@@ -3,18 +3,31 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - wall
+  - RightDoor
+  - LeftDoor
+  - UpDoor
+  - DownDoor
+  - Monster
+  - PlayerTears
+  - Boom
+  - Item
+  - Rock
+  - Boss
+  - Clear
+  - Thron
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Hollow
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - UnMovedItem
+  - Enemy
+  - Boom
   - 
   - 
   - 
@@ -40,4 +53,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 3102735097
+    locked: 0
+  - name: Image
+    uniqueID: 978172535
+    locked: 0
+  - name: Object
+    uniqueID: 3785383481
+    locked: 0
+  - name: Tears
+    uniqueID: 91175789
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 3626223191
+    locked: 0
+  - name: PlayerHead
+    uniqueID: 881418289
+    locked: 0
+  - name: Ui
+    uniqueID: 4005568109
     locked: 0

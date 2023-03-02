@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: da9a4cb48c8f7bf4ea0a40028fdc2e6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage 1 sprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 389
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b519a09724554b4a84eb03759fae8f8
+      internalID: -1875734395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 388
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d38abb9b8d7fa44a0eeaca08724fb5
+      internalID: 1253445194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 sprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 390
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d066f1cddbe7943bf29185f5708bd0
+      internalID: -1684852032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage 1 sprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 389
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf637ed602b05448eff80f767f9d60
+      internalID: 1422216476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7eca93e2fbc3bd545b8524e3ca35f06c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage 1 sprites 1_9: -1788613910
+      Stage 1 sprites 1_12: 1146459442
+      Stage 1 sprites 1_35: -1521709479
+      Stage 1 sprites 1_7: -42425712
+      Stage 1 sprites 1_6: 789093731
+      Stage 1 sprites 1_33: -1963287292
+      Stage 1 sprites 1_4: -1162321740
+      Stage 1 sprites 1_47: -119779675
+      Stage 1 sprites 1_20: 575776349
+      Stage 1 sprites 1_53: -401056856
+      Stage 1 sprites 1_32: -1587205434
+      Stage 1 sprites 1_13: 359059487
+      Stage 1 sprites 1_11: 1775751720
+      Stage 1 sprites 1_15: -327989321
+      Stage 1 sprites 1_18: 579158770
+      Stage 1 sprites 1_42: -236545966
+      Stage 1 sprites 1_46: -214350221
+      Stage 1 sprites 1_52: -489113679
+      Stage 1 sprites 1_26: 1464337628
+      Stage 1 sprites 1_8: 591853400
+      Stage 1 sprites 1_51: -1296716305
+      Stage 1 sprites 1_21: -1979812656
+      Stage 1 sprites 1_19: 1667525142
+      Stage 1 sprites 1_25: -475399677
+      Stage 1 sprites 1_23: -1434144466
+      Stage 1 sprites 1_36: 974805379
+      Stage 1 sprites 1_27: -1501316311
+      Stage 1 sprites 1_30: 1647051974
+      Stage 1 sprites 1_10: 723678270
+      Stage 1 sprites 1_48: -1553588429
+      Stage 1 sprites 1_2: -1684852032
+      Stage 1 sprites 1_37: 196879017
+      Stage 1 sprites 1_34: 473303792
+      Stage 1 sprites 1_39: 301657177
+      Stage 1 sprites 1_40: 70959775
+      Stage 1 sprites 1_29: 1895368551
+      Stage 1 sprites 1_43: -1099012669
+      Stage 1 sprites 1_16: 15259308
+      Stage 1 sprites 1_45: -1154756961
+      Stage 1 sprites 1_49: -1179841439
+      Stage 1 sprites 1_14: -1740498723
+      Stage 1 sprites 1_1: 1253445194
+      Stage 1 sprites 1_41: -1589012111
+      Stage 1 sprites 1_0: -1875734395
+      Stage 1 sprites 1_5: 1753752989
+      Stage 1 sprites 1_3: 1422216476
+      Stage 1 sprites 1_24: 427090690
+      Stage 1 sprites 1_22: -1612497541
+      Stage 1 sprites 1_17: 1181473740
+      Stage 1 sprites 1_38: -1122274285
+      Stage 1 sprites 1_31: -2091533477
+      Stage 1 sprites 1_50: 1823710220
+      Stage 1 sprites 1_28: 1810766336
+      Stage 1 sprites 1_44: -11781650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

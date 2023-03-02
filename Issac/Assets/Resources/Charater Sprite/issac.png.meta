@@ -1,0 +1,1634 @@
+fileFormatVersion: 2
+guid: 2671f142ababa0d48be9b3e78501ded6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: issac_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 900
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bfb83cd84d5354da539259cf64ce01
+      internalID: 311460496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 899
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2abd20c4642f4aa483a78c5ae4109
+      internalID: 626668998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 900
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909a30850fff79f4ebc23d7704c46796
+      internalID: 851152051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 899
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11094e91c2b8a6641978d962ebd9aa2b
+      internalID: 234320898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 900
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a35d13bfd359e8438f9410ee7c7dd1a
+      internalID: -1018248650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e24cddfaf4c5e4d8dbf282dcdb0dec
+      internalID: 718368159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 900
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061258b31a131848ae63912e4d29098
+      internalID: -1276041353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 899
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bb8215211078343a7c0f8d38b669bd
+      internalID: -1621207127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 900
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc3806c34a5b83439185ac3159f4961
+      internalID: -938884235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 899
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a26ecdee4bef47a86571be4d8fbe9
+      internalID: -764931930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d862e79f7ca52994d9b11204011dc11b
+      internalID: 1856668959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741736d84e07de44ad3973b29a74f06
+      internalID: 1186777073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126680788c8f7b840a9fc49e7074d294
+      internalID: -2016140790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 855
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fb4ec61568fe448c435e59c213e8c
+      internalID: 114904157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 856
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab5a087f1d6d540be1478c956f9410
+      internalID: 154408616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155cceafcb7ffe84d92b0866b1dc094a
+      internalID: -106483733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_45
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4162c690cdacd428787a0a21b4272a
+      internalID: 1945194440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e21fd35d8080b4997276f50fd536b1
+      internalID: 472533695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 855
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bb11b56bed9e40a05a29c99c6d21c
+      internalID: 1036074221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_48
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 856
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b91a50d8467f444bc4c21dfa12119d
+      internalID: 1690843726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 814
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88dd33818e5b14ba197cb21286a88f
+      internalID: -356858784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 814
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260ee1fc6874a34fb0c0690db446702
+      internalID: 1453159892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_74
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 814
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e5737b4733cc4b826a5aa7b1d37e8
+      internalID: -1305885710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 814
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a51382f076d7249996397b6025714d
+      internalID: -1072782102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_76
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 814
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28a5fc6e154274482601468ad5828f
+      internalID: 1119650281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 814
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ccfafab0c97e345bd43b96d0e52e40
+      internalID: 821853676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 814
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4db80858af59499481ce2423046c9
+      internalID: -1174652987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_79
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 814
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847055f6ed813f14eb0d9eb929664ac8
+      internalID: 1719514578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 814
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98a871399ab11488435082a5180b3d
+      internalID: 1134307624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_81
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 814
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdba0fdfcede6a42953a078482d475f
+      internalID: -22959784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 751
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77455cce31f337f4fb856314b3e47b70
+      internalID: -53230880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_109
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 754
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade137ef0c44404789f153612f7fcaf
+      internalID: 93201190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_110
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 752
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e86c18d63a1444aff0ea0502a0899
+      internalID: -442033100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_111
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 753
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24886da6cec9444caff570229d2e75c
+      internalID: 2015099156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 688
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39816deb6a78b754e9578c644ea5e275
+      internalID: 1960454723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_169
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 688
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703f19d50008e341b5032653860bb3f
+      internalID: -1969396687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_170
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 686
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57edf7a38e561b43a7efc9a9bd2fe77
+      internalID: 2142869343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_171
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 688
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca3bcb66a54fe449bf54d4b25361a0
+      internalID: -1801767332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_183
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 627
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4640c85fdcb6185489f7cd8cc215e427
+      internalID: -471098667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_184
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 629
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ced7006401034fb53ff7cb11054d2
+      internalID: 919566626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_185
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 623
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b43a3926b38df4a8f6ef50ac9203d3
+      internalID: -345299377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_499
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 22
+        width: 14
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538fe6d2af21910408cbe212ad124d2c
+      internalID: 1901670745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_500
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 93
+        width: 98
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47518e7c3d4f1a043b6b0bcd6e243c97
+      internalID: 1420563838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_501
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 40
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae9f7379e3eb64bb08128e278d0579
+      internalID: 1250080172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_502
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 46
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee38843aaba6642951a5ebe7938ee7
+      internalID: 1152718430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: issac_504
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb0473577fa8846b8d06cacc1cd281
+      internalID: 1222831295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6afb2f44b547d084b92b4e0c158017e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      issac_274: 1689203082
+      issac_424: 171802627
+      issac_353: -924130759
+      issac_406: 1677565503
+      issac_178: 1836783291
+      issac_199: 653977355
+      issac_361: -1811638753
+      issac_520: 572051095
+      issac_516: 1732319085
+      issac_101: -1461563734
+      issac_386: -142251922
+      issac_342: -2018363731
+      issac_41: -2016140790
+      issac_340: 173304526
+      issac_355: 1366123632
+      issac_174: -135743926
+      issac_180: -2083673229
+      issac_43: 154408616
+      issac_382: 1708856118
+      issac_228: -1218775995
+      issac_10: -1147308919
+      issac_234: -1383442984
+      issac_19: -1621207127
+      issac_164: 1293355278
+      issac_179: 1488002804
+      issac_295: -1914329991
+      issac_89: -686625198
+      issac_276: -2136526875
+      issac_507: 1105190088
+      issac_190: 1685403431
+      issac_417: -537398323
+      issac_264: -2104316918
+      issac_437: 113469108
+      issac_364: -248716723
+      issac_341: -73880498
+      issac_211: 457999573
+      issac_240: 968275701
+      issac_219: 959311169
+      issac_256: -2014980039
+      issac_38: 98174347
+      issac_318: -1032541914
+      issac_241: 1819272361
+      issac_420: -685000982
+      issac_425: -544308127
+      issac_401: 1594686423
+      issac_508: 1501314300
+      issac_329: -59314461
+      issac_443: 598885722
+      issac_518: -1747357111
+      issac_385: -1605769598
+      issac_57: 1998916564
+      issac_351: 637566572
+      issac_301: 1776294849
+      issac_393: 185620289
+      issac_166: 1829501575
+      issac_293: -435300404
+      issac_62: -1038458336
+      issac_384: -1803728055
+      issac_350: -1126233912
+      issac_230: -465649418
+      issac_433: -604390124
+      issac_198: -1217193187
+      issac_298: -1413608301
+      issac_194: -821426929
+      issac_445: 1233986123
+      issac_84: 119576709
+      issac_491: -1757820559
+      issac_156: 1887306135
+      issac_419: 571178257
+      issac_465: -755413676
+      issac_40: 1186777073
+      issac_44: -106483733
+      issac_102: 32405421
+      issac_473: -181730121
+      issac_446: 1343491659
+      issac_430: 2082715139
+      issac_440: 2030266941
+      issac_367: -687735283
+      issac_388: -907008653
+      issac_415: -2139611079
+      issac_127: -251612268
+      issac_380: -1832881438
+      issac_226: 1890195477
+      issac_176: 1801610109
+      issac_128: 606353770
+      issac_311: -1683720513
+      issac_134: 62004020
+      issac_170: 2142869343
+      issac_307: 1833244308
+      issac_126: 852988620
+      issac_71: -528028777
+      issac_237: -1912042073
+      issac_29: -764931930
+      issac_112: -580360203
+      issac_266: -827921018
+      issac_457: 1182457142
+      issac_299: 814412388
+      issac_65: 1842296700
+      issac_316: 1088231168
+      issac_3: -1018028882
+      issac_501: 1250080172
+      issac_269: -1998491537
+      issac_227: 1910542100
+      issac_435: 659824253
+      issac_378: 1786895074
+      issac_202: 517732471
+      issac_464: -571041014
+      issac_165: 1333703629
+      issac_268: -887065615
+      issac_15: 234320898
+      issac_453: 1174435865
+      issac_374: -1772083653
+      issac_304: -359154077
+      issac_477: 275760628
+      issac_289: -528096319
+      issac_66: -542304135
+      issac_206: -1374782875
+      issac_50: -365217760
+      issac_460: 1050831413
+      issac_454: -738566528
+      issac_136: 1634000056
+      issac_23: -694225867
+      issac_220: -168943389
+      issac_200: 224331819
+      issac_37: 277292307
+      issac_159: -907004675
+      issac_309: 915491454
+      issac_111: 2015099156
+      issac_439: 1487416927
+      issac_119: 1075967032
+      issac_300: 1495189950
+      issac_376: 706389078
+      issac_379: -36039154
+      issac_82: -2070792737
+      issac_512: -23004613
+      issac_459: 586032748
+      issac_339: -33297186
+      issac_503: 634281569
+      issac_485: -835445099
+      issac_489: 1879470550
+      issac_450: 86094637
+      issac_242: 183929329
+      issac_91: -89243547
+      issac_109: 93201190
+      issac_93: 2027575572
+      issac_122: 1439641150
+      issac_223: -419476392
+      issac_51: 1537518268
+      issac_511: 1344586746
+      issac_254: -2055029512
+      issac_113: 777987257
+      issac_325: 747915487
+      issac_108: -53230880
+      issac_83: 482052985
+      issac_345: 63726919
+      issac_452: 1417362747
+      issac_183: -471098667
+      issac_6: 444337994
+      issac_232: 917617051
+      issac_500: 1420563838
+      issac_292: -352173232
+      issac_209: 252596637
+      issac_210: -182216794
+      issac_64: 813844145
+      issac_139: 1989720021
+      issac_161: -807714914
+      issac_61: 223750678
+      issac_92: 268459595
+      issac_213: -671619072
+      issac_320: 1697025081
+      issac_152: -1421101540
+      issac_290: -296818841
+      issac_235: -1160966687
+      issac_262: 1892790239
+      issac_392: -1759891911
+      issac_404: 1054490719
+      issac_46: 472533695
+      issac_203: 175202044
+      issac_18: -1276041353
+      issac_186: -1198467852
+      issac_322: 2081369076
+      issac_257: 1448524696
+      issac_157: -991297863
+      issac_431: 443401860
+      issac_78: -1174652987
+      issac_131: 169989769
+      issac_162: 1006610873
+      issac_59: -2089198261
+      issac_418: 1861441137
+      issac_104: 1708729348
+      issac_344: 1740185625
+      issac_517: 544288216
+      issac_69: 233180161
+      issac_14: 851152051
+      issac_504: 1222831295
+      issac_138: 1650109560
+      issac_373: 1661015288
+      issac_67: 1220119089
+      issac_153: -355236019
+      issac_369: 129950020
+      issac_305: 249973447
+      issac_372: 733479692
+      issac_468: 1881753404
+      issac_135: -1344164518
+      issac_224: 1200719596
+      issac_103: -46799874
+      issac_416: -1373920632
+      issac_193: -1552534231
+      issac_391: -702811676
+      issac_171: -1801767332
+      issac_79: 1719514578
+      issac_140: 772905431
+      issac_167: 399918764
+      issac_294: 614836909
+      issac_399: -1384564057
+      issac_444: -392759463
+      issac_427: 1262275684
+      issac_502: 1152718430
+      issac_52: 720067106
+      issac_455: -1647918976
+      issac_291: -894824766
+      issac_335: -784583094
+      issac_32: -1883616838
+      issac_90: -1756810201
+      issac_411: 358459949
+      issac_247: -969967182
+      issac_7: 196233173
+      issac_253: 1670042880
+      issac_160: 171769022
+      issac_172: -1997478908
+      issac_233: 209946968
+      issac_117: 87890117
+      issac_383: -1147472444
+      issac_456: 1460531173
+      issac_177: -1776846090
+      issac_221: 21804035
+      issac_471: 484333213
+      issac_426: -476297214
+      issac_217: 2039876070
+      issac_17: 718368159
+      issac_246: -59471432
+      issac_275: -399709216
+      issac_371: 987467531
+      issac_398: -822609189
+      issac_352: 1778869075
+      issac_214: -1685071333
+      issac_297: -1430146431
+      issac_389: -1779974022
+      issac_442: 1036349370
+      issac_25: 104500965
+      issac_490: 942737926
+      issac_201: 2032955697
+      issac_39: 1856668959
+      issac_327: 2079980524
+      issac_4: 1645779780
+      issac_317: 2111589469
+      issac_479: -1108769495
+      issac_99: 1622361936
+      issac_510: -372367986
+      issac_463: -1464854723
+      issac_146: 1001364127
+      issac_8: 858882193
+      issac_53: -1962017501
+      issac_124: 4100407
+      issac_333: 1120151428
+      issac_286: -431419966
+      issac_74: -1305885710
+      issac_343: -1121692590
+      issac_363: 276428805
+      issac_348: -1937473091
+      issac_63: 602367829
+      issac_147: 52229378
+      issac_469: -1756797710
+      issac_377: -960737725
+      issac_258: 1234463904
+      issac_509: -1712800328
+      issac_365: -1466620341
+      issac_394: 412022986
+      issac_499: 1901670745
+      issac_97: 627882024
+      issac_462: -82095264
+      issac_76: 1119650281
+      issac_130: -1106831708
+      issac_250: 1536044009
+      issac_428: -1641583351
+      issac_95: 1795065254
+      issac_267: 1153317183
+      issac_358: -2030820792
+      issac_47: 1036074221
+      issac_231: -1516307397
+      issac_1: 2087226466
+      issac_187: -1173828658
+      issac_480: 826690782
+      issac_326: 482152690
+      issac_315: 1412862699
+      issac_395: -44744439
+      issac_143: -1753281317
+      issac_168: 1960454723
+      issac_306: 1087212857
+      issac_185: -345299377
+      issac_56: 1465917732
+      issac_259: 182724786
+      issac_461: -1791540435
+      issac_349: -155767809
+      issac_248: -16489045
+      issac_36: -981120028
+      issac_283: 333583910
+      issac_100: 461146942
+      issac_133: 2040165417
+      issac_155: 1910518164
+      issac_9: 1745767909
+      issac_145: -332380638
+      issac_16: -1018248650
+      issac_144: 17336554
+      issac_173: 1029149473
+      issac_86: 1199135939
+      issac_447: -963835447
+      issac_110: -442033100
+      issac_334: 136061380
+      issac_492: -965755061
+      issac_142: 454944058
+      issac_88: -1666702639
+      issac_5: -1309844238
+      issac_49: -669408756
+      issac_347: -1385700113
+      issac_514: 1798091992
+      issac_182: 363859453
+      issac_497: -1098633226
+      issac_118: 450526826
+      issac_94: -1078862399
+      issac_81: -22959784
+      issac_281: 1637892022
+      issac_68: -1783366179
+      issac_72: -356858784
+      issac_236: 1780094388
+      issac_249: 1603403330
+      issac_280: -1405577300
+      issac_244: 955743276
+      issac_441: -1023209899
+      issac_436: -769400925
+      issac_287: -1123878621
+      issac_338: -1431381340
+      issac_169: -1969396687
+      issac_255: -1009210535
+      issac_33: -1864870873
+      issac_137: -2072518822
+      issac_123: -403411281
+      issac_243: 1273624686
+      issac_312: -1353372439
+      issac_251: 1012534515
+      issac_154: 1246588336
+      issac_222: -194737683
+      issac_331: 1213338096
+      issac_486: -274827557
+      issac_346: 1244536452
+      issac_12: 311460496
+      issac_192: 201640655
+      issac_478: -1135733563
+      issac_515: 1962081654
+      issac_70: -1053135415
+      issac_466: 1084884808
+      issac_265: 56846245
+      issac_328: 1567735656
+      issac_120: 850894091
+      issac_421: -395263497
+      issac_279: -1870842801
+      issac_73: 1453159892
+      issac_390: 340274965
+      issac_150: -1457220274
+      issac_310: 296545554
+      issac_493: -1493368657
+      issac_239: 987121079
+      issac_397: 136073490
+      issac_195: 206895586
+      issac_277: 1948966018
+      issac_282: 1721021818
+      issac_129: 332846720
+      issac_284: -756406231
+      issac_35: -555469530
+      issac_188: -2079214073
+      issac_24: -527123612
+      issac_28: -938884235
+      issac_21: -1509093788
+      issac_212: -976614869
+      issac_458: 131082286
+      issac_336: -1177120877
+      issac_357: 1887555703
+      issac_476: -1680176420
+      issac_141: -1972117336
+      issac_163: 1796706267
+      issac_405: 179539563
+      issac_356: 1981600810
+      issac_396: -576539704
+      issac_98: -1954162114
+      issac_22: 2098963655
+      issac_238: -90139215
+      issac_513: -1630886817
+      issac_360: 560458991
+      issac_482: 428248743
+      issac_495: 1819029364
+      issac_505: 484840383
+      issac_115: -632944251
+      issac_496: 1965395686
+      issac_484: -1886355690
+      issac_414: 1594189652
+      issac_181: 680907184
+      issac_11: -364904931
+      issac_132: 656736731
+      issac_302: 1836935067
+      issac_303: -439601675
+      issac_314: 395521663
+      issac_270: 2181293
+      issac_474: -436150354
+      issac_158: 445172181
+      issac_359: -1141058559
+      issac_308: 434026986
+      issac_55: -514407524
+      issac_412: -855708360
+      issac_215: -1536988296
+      issac_483: -321770891
+      issac_448: -1283769876
+      issac_472: 762039588
+      issac_58: -177529312
+      issac_105: -32413521
+      issac_45: 1945194440
+      issac_519: 21356328
+      issac_229: 1143352457
+      issac_375: 2077679807
+      issac_149: 1470232804
+      issac_438: 243125933
+      issac_204: 117689923
+      issac_332: -1988048848
+      issac_407: -1170319151
+      issac_506: 108329264
+      issac_296: -370465244
+      issac_313: -453889025
+      issac_184: 919566626
+      issac_481: 247889024
+      issac_208: -993449605
+      issac_77: 821853676
+      issac_330: 1987973557
+      issac_245: 1425398721
+      issac_225: -1584766882
+      issac_26: -1062556058
+      issac_475: 239893728
+      issac_60: 1683239958
+      issac_116: 742987813
+      issac_494: 638486017
+      issac_408: 92879882
+      issac_30: -1159201632
+      issac_114: -2107376632
+      issac_432: -1458540224
+      issac_467: -1060006048
+      issac_207: 711294180
+      issac_80: 1134307624
+      issac_48: 1690843726
+      issac_366: -1119357559
+      issac_429: -2144274968
+      issac_121: 2145272844
+      issac_125: 1002959805
+      issac_470: 635113919
+      issac_0: -95410127
+      issac_498: 2098422447
+      issac_400: 701735982
+      issac_13: 626668998
+      issac_218: -894573505
+      issac_271: 107004997
+      issac_449: 791224198
+      issac_387: -1431257330
+      issac_337: 413828120
+      issac_197: 839383398
+      issac_148: 169018808
+      issac_409: 930382095
+      issac_2: -1911930910
+      issac_487: -1283126128
+      issac_263: 235468778
+      issac_368: -869366661
+      issac_31: 989434992
+      issac_319: 1794003137
+      issac_413: -758959031
+      issac_488: -1450231710
+      issac_261: 531601254
+      issac_403: 317813418
+      issac_85: -1206640453
+      issac_324: 686172610
+      issac_205: -668689902
+      issac_273: -868891473
+      issac_196: -417366148
+      issac_151: -1600604502
+      issac_278: 1810061272
+      issac_434: -1507446622
+      issac_354: 372109643
+      issac_285: 995232325
+      issac_42: 114904157
+      issac_321: -40079803
+      issac_272: -68697816
+      issac_27: 1048731050
+      issac_34: -1167163250
+      issac_370: -1608092096
+      issac_410: 1941726725
+      issac_20: -1591239542
+      issac_87: 95588658
+      issac_96: 1241726027
+      issac_54: 1479489455
+      issac_381: -527796778
+      issac_362: -1856897204
+      issac_451: -689190900
+      issac_260: 86060329
+      issac_252: 247337389
+      issac_288: -280211778
+      issac_175: 1471146648
+      issac_75: -1072782102
+      issac_189: 1427881988
+      issac_402: 1360870435
+      issac_106: -1833027032
+      issac_323: 377678365
+      issac_422: 1869179080
+      issac_423: 1612234927
+      issac_107: 402590029
+      issac_216: 2041923217
+      issac_191: -1054836144
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
